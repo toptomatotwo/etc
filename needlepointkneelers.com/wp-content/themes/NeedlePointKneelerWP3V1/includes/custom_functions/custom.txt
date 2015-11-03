@@ -1,0 +1,8 @@
+This is the customs function folder.
+
+If you have something special you want loaded when the functions.php file loads then put it in this folder.
+
+Anything here will automatically be loaded.
+
+Make sure your code is syntactically correct or you will have problems.
+

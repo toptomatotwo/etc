@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://mbellishment.com/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/2.8.4" --><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.1.6" --><!-- generated-on="October 3, 2009 10:47 am" --><!-- Debug: Total comment count: 1 --><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://mbellishment.com/</loc>
+		<lastmod>2009-09-30T20:07:18+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->	<url>
+		<loc>http://mbellishment.com/privacy-policy</loc>
+		<lastmod>2009-10-03T14:46:02+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1: Comments: 1 of 1 = 1 points -->	<url>
+		<loc>http://mbellishment.com/uncategorized/hello-world.php</loc>
+		<lastmod>2009-09-30T20:07:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://mbellishment.com/about</loc>
+		<lastmod>2009-09-30T20:07:18+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings --><!-- Debug: Start Custom Pages --><!-- Debug: End Custom Pages --><!-- Debug: Start additional URLs --><!-- Debug: End additional URLs --></urlset>

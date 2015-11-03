@@ -1,0 +1,166 @@
+#poststuff .inside .my_meta_control p {
+   font-size:12px;
+}
+#poststuff .my_meta_control-inner h2 {
+   margin-top:0;
+   margin-bottom:0;
+}
+.my_meta_control .description {
+   display:none;
+}
+.my_meta_control label {
+   display:block;
+   font-weight:bold;
+   margin:6px;
+   margin-bottom:0;
+   margin-top:12px;
+}
+.my_meta_control label span {
+   display:inline;
+   font-weight:normal;
+}
+.my_meta_control span {
+   display:block;
+   color:#666;
+   font-style: italic;
+}
+.my_meta_control p.required span {
+   color:#A84624;
+   display:block;
+}
+.my_meta_control p.required-check span {
+   color:#A84624;
+   display:block;
+}
+.my_meta_control p {
+   padding-left:10px;
+}
+.my_meta_control p.required {
+   border:1px #B8D9ED solid;
+   background: #CFDFE9 url("images/required-tag.gif") 99% 5px no-repeat;
+   padding-top:5px;
+   padding-bottom:5px;
+   -moz-border-radius: 7px 7px 7px 7px;
+   -webkit-border-radius: 7px 7px 7px 7px;
+   border-radius: 7px 7px 7px 7px;
+}
+.my_meta_control strong {
+   line-height:20px;
+}
+#poststuff .inside .my_meta_control p.required-check {
+   border:1px #B8D9ED solid;
+   background: #CFDFE9 url("images/required-tag.gif") 99% 5px no-repeat;
+   margin:10px 0 10px 30px;
+   padding-top:5px;
+   padding-bottom:5px;
+   -moz-border-radius: 7px 7px 7px 7px;
+   -webkit-border-radius: 7px 7px 7px 7px;
+   border-radius: 7px 7px 7px 7px;
+}
+
+.my_meta_control textarea, .my_meta_control input[type='text'] {
+   margin-bottom:3px;
+   background-color:#fff;
+}
+.my_meta_control h4 {
+   background: url("images/arrows-dark-vs.png") no-repeat scroll 3px 3px transparent;
+   cursor:pointer;
+   padding:5px 5px 5px 20px;
+   background-color:#DBF9FC;
+   font-weight:bold;
+   color:#999;
+   font-size:1em;
+   margin:15px 6px;
+   text-transform:uppercase;
+}
+.my_meta_control h4.sb {
+   padding:0;
+   cursor:default;
+   font-weight:bold;
+   color:#666;
+   font-size:1em;
+   text-transform:uppercase;
+   background-image: url(none);
+   margin: 0 0 0 5px;
+   background-color: transparent;
+}
+.my_meta_control-inner {
+   margin:0 10px;
+   background-color:#dbf9fc;
+   padding:0 10px 10px 10px;
+   border:1px dotted #ccc;
+}
+.my_meta_control #screenshot{
+   position:absolute;
+   border:1px solid #ccc;
+   background:#333;
+   padding:5px;
+   display:none;
+   color:#fff;
+}
+.section-title {
+   background-color:#dbf9fc;
+   padding:5px;
+   margin:0;
+   font-size:12px;
+   font-weight:bold;
+}
+#poststuff .inside .my_meta_control .block-box	{
+   float:left;
+   margin:0 0 10px 0;
+}
+#poststuff .inside .my_meta_control .block-boxc	{
+   color:#666;
+   font-size:10px;
+   float:left;
+   padding-left:5px;
+}
+#poststuff .inside .my_meta_control .block-box-pos {
+   margin-left:10px;
+}
+#poststuff .inside .my_meta_control p.section {
+   padding:5px;
+   background-color:#E8FBFF;
+   font-weight:bold;
+   margin:6px 10px;
+}
+.clearfix	{
+   clear:both;
+}
+.hr-meta {
+   background-color: #CCCCCC;
+   height: 1px;
+   margin-top: 10px;
+   width: 100%;
+}
+
+div.hr-meta hr {
+   display: none;
+}
+	/* custom editor styles */
+ 
+.my_meta_control .customEditor
+{
+   margin:15px 6px;
+   border:1px solid #ccc;
+   background-color:#fff;
+}
+ 
+.my_meta_control .customEditor textarea
+{
+   border:0;
+   background-color:#fff;
+}
+ 
+#post-body .my_meta_control .customEditor .mceStatusbar a.mceResize
+{
+   top:-2px;
+}
+ 
+/* extra styles used in other WPAlchemy meta boxes */
+ 
+.my_meta_control textarea, .my_meta_control input[type='text']
+{
+   margin-bottom:3px;
+}
+

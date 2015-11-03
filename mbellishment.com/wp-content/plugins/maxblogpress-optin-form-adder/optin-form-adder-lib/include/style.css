@@ -1,0 +1,56 @@
+h3.ofa_h3{
+	color: #0D324F;
+	background-color: #F1F6F9;
+	font-size: 15px;
+	padding: 2px;
+}
+
+h4.ofa_h4{
+	font-size: 15px;
+}
+
+/******* Tab Menu ********/
+
+.ofatabs {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 0;
+	margin-left: 0;
+	margin-top: 1px;
+	margin-bottom: 0;
+	text-align: left;
+}
+.ofatabs li {
+	display: inline;
+	margin: 0;
+	cursor:hand;
+	cursor:pointer;
+}
+.ofatabs li a {
+	text-decoration: none;
+	position: relative;
+	z-index: 1;
+	padding: 3px 20px;
+	margin-right: 4px;
+	border: 1px solid #999999;
+	color: #0D324F;
+	background: #ffffff url(../images/tab.gif) top left repeat-x;
+}
+.ofatabs li a:visited {
+	color: #0D324F;
+}
+.ofatabs li a:hover {
+	text-decoration: none;
+	color: #14568A;
+}
+.ofatabs li a.selected {
+	position: relative;
+	top: 1px;
+}
+.ofatabs li a.selected {
+	background: #ffffff url(../images/tab-active.gif) top left repeat-x;
+	border-bottom-color: #ffffff;
+}
+.ofatabs li a.selected:hover {
+	text-decoration: none;
+}

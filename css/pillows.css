@@ -1,0 +1,183 @@
+.pagination-page-top {
+	padding-top: 10px;
+}
+
+div#text ul {
+	padding:0;
+	list-style-type:none;
+}
+
+span {color:#000;}
+
+ul.pillows-generic {
+	padding:0;
+	list-style-type:none;
+	width:100%;
+}
+
+ul.pillows-generic li{
+	float:left;
+	width:32%;
+	margin-right: 5px;
+	margin-bottom: 20px;
+}
+
+ul.pillows-generic li img{width:92%; margin-bottom: 5px;}
+
+ul.pillows-generic li:nth-child(3n+4){
+	clear:left;
+}
+/* ul.pillows-generic li:nth-child(2n){float:right;margin-right:0} */
+
+
+ul.pillows-generic li span, .li-span {
+	display: block;
+	clear:left;
+	color:#000;
+}
+
+/* GEISHA ......*/
+
+ul#geisha, ul#asian-scene {
+	padding:0;
+	list-style-type:none;
+}
+ul#geisha li, ul#asian-scene li {
+	float:left;
+	margin-right: 12px;
+	padding-bottom: 10px;
+}
+ul#geisha li:nth-child(4n), ul#asian-scene li:nth-child(4n){
+	float:left;
+	margin-right:0px;
+}
+ul#geisha li:nth-child(5n+5) {
+	float:left;
+	clear:left;
+	margin-right:0px;
+}
+ul#geisha li img, ul#asian-scene li img{
+	width:165px;
+	margin-bottom: 10px;
+}
+
+ul#misc1 {
+	width:100%;
+}
+ul#misc1 li {
+	width:31%;float:left;
+	margin-bottom: 10px;margin-right:3%;
+}
+ul#misc1 li img{ width:100%;}
+
+ul#misc1 li:nth-child(3n+3) {
+	float:right;margin-right:0
+}
+ul#misc1 li:nth-child(3n+4) {
+	clear:left;
+}
+
+ul#misc1 span{
+	display: block;
+}
+/* HOLIDAYS ......*/
+ul#holidays {
+
+}
+
+ul#holidays li {
+	width:50%;
+	float:left;
+}
+
+ul#holidays li:nth-child(2n+3) {clear:left;}
+
+ul#holidays li span{ display: block;}
+
+ul#holidays li img {width:90%;}
+
+/* FLOWERS ......*/
+
+ul#flowers461, #flowers401 {
+	width:100%;list-style-type: none;
+}
+
+ul#flowers461 li {
+	float:left;
+	text-align: center;
+	width:25%;
+	margin-bottom: 12px;
+}
+
+ul#flowers461 li span, #flowers401 li span{ display:block;width:90%;color:#000;}
+
+ul#flowers461 li img, ul#flowers401 li img {
+	width:90%;
+	margin-bottom:3px;
+} 
+
+ul#flowers461 li:nth-child(5n+5){
+	/*clear:left; */
+	/*display: table-row; */
+}
+
+ul#flowers401 li {
+	width:33%;
+	float:left;
+}
+
+
+
+/* PEOPLE ......*/
+ul#people {
+width:100%;
+}
+
+ul#people li {
+width:33%;
+float:left;
+margin-bottom: 12px;
+}
+
+ul#people li span{ display: block;}
+
+ul#people li:nth-child(4){clear:left;}
+
+ul#people li img{
+width:90%;
+margin-bottom: 3px;
+}
+
+/*WILD THINGS 2 .......*/
+ul#wild-things-2 {
+width:100%;
+}
+
+ul#wild-things-2 li{
+width:25%;
+float:left;
+margin-bottom: 12px;
+}
+
+ul#wild-things-2 li span{ display:block;}
+
+ul#wild-things-2 li:nth-child(5n+5){clear:left;}
+
+ul#wild-things-2 li img{
+width:90%;
+margin-bottom: 3px;
+}
+
+
+ul#asian-fan { width:100%;}
+ul#asian-fan li{
+	width:48%;
+	float:left;
+}
+ul#asian-fan li img{
+	width:100%;
+}
+ul#asian-fan li:nth-child(2n+2){float:right;}
+
+
+

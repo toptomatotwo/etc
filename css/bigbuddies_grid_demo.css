@@ -1,0 +1,28 @@
+div.big-buddies-list-container {
+	background-color: #fff;
+}
+ul.big-buddies-list-square {
+	list-style-type: none;
+	padding:0;
+}
+ul.big-buddies-list-square li {
+	float:left;
+	height:150px;width:150px;
+	margin:0 10px 10px 0;
+	border:2px dashed #ccc;
+	padding:1px;
+}
+
+ul.big-buddies-list-square li:hover {
+	border:2px dashed #c06;
+}
+
+ul.big-buddies-list-square li:nth-child(4n+5) {
+	clear:left;
+}
+
+
+ul.big-buddies-list-square li img{
+	height:150px;width:150px;
+padding:0;
+}

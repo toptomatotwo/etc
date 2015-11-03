@@ -1,0 +1,90 @@
+
+.accordion-header {
+   font-size: 12px;
+   font-weight:bold;
+   background: #F0F8FE;
+   margin: 5px 0 0 0;
+   padding: 5px 20px;
+   border: 1px solid #cccccc;
+   cursor: pointer;
+   color: #000;
+   text-shadow: 0 -1px 0 #fff;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+}
+
+.active-header {
+   -moz-border-radius: 5px 5px 0 0;
+   -webkit-border-radius: 5px 5px 0 0;
+   border-radius: 5px 5px 0 0;
+   background: url(images/arrows-vs.png) no-repeat scroll 3px -31px #CFDFE9;
+}
+
+.active-header:hover {
+   background: url(images/arrows-dark-vs.png) no-repeat scroll 3px -31px #CFDFE9;
+}
+
+.inactive-header {
+   background: url(images/arrows-vs.png) no-repeat scroll 3px 3px #CFDFE9;
+}
+
+.inactive-header:hover {
+   background: url(images/arrows-dark-vs.png) no-repeat scroll 3px 3px #CFDFE9;
+}
+
+.accordion-content {
+   display: none;
+   padding: 20px;
+   background: #fcfce5;
+   border: 1px solid #cccccc;
+   border-top: 0;
+   -moz-border-radius: 0 0 5px 5px;
+   -webkit-border-radius: 0 0 5px 5px;
+   border-radius: 0 0 5px 5px;
+}
+
+.accordion-header2 {
+   font-size: 12px;
+   font-weight:bold;
+   background: #F0F8FE;
+   margin: 5px 0 0 0;
+   padding: 5px 20px;
+   border: 1px solid #cccccc;
+   cursor: pointer;
+   color: #000;
+   text-shadow: 0 -1px 0 #fff;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+}
+
+.active-header2 {
+   -moz-border-radius: 5px 5px 0 0;
+   -webkit-border-radius: 5px 5px 0 0;
+   border-radius: 5px 5px 0 0;
+   background: url(images/arrows-vs.png) no-repeat scroll 3px -31px #CFDFE9;
+}
+
+.active-header2:hover {
+   background: url(images/arrows-dark-vs.png) no-repeat scroll 3px -31px #CFDFE9;
+}
+
+.inactive-header2 {
+   background: url(images/arrows-vs.png) no-repeat scroll 3px 3px #CFDFE9;
+}
+
+.inactive-header2:hover {
+   background: url(images/arrows-dark-vs.png) no-repeat scroll 3px 3px #CFDFE9;
+}
+
+.accordion-content2 {
+   display: none;
+   padding: 20px;
+   background: #fcfce5;
+   border: 1px solid #cccccc;
+   border-top: 0;
+   -moz-border-radius: 0 0 5px 5px;
+   -webkit-border-radius: 0 0 5px 5px;
+   border-radius: 0 0 5px 5px;
+}

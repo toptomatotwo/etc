@@ -1,0 +1,2 @@
+[24-Dec-2014 06:16:23 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
+[26-Feb-2015 17:10:08 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40

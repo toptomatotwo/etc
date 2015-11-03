@@ -1,0 +1,11 @@
+[28-Oct-2013 17:04:32] PHP Fatal error:  Call to undefined function  get_header() in /home/etc4web/public_html/wp-content/themes/twentyeleven/tag.php on line 10
+[31-Oct-2013 23:42:21] PHP Fatal error:  Call to undefined function  get_header() in /home/etc4web/public_html/wp-content/themes/twentyeleven/index.php on line 15
+[26-Dec-2013 12:27:39] PHP Fatal error:  Call to undefined function  get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/404.php on line 10
+[24-May-2014 12:24:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/index.php on line 15
+[24-May-2014 15:27:47 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/index.php on line 15
+[28-May-2014 13:11:05 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/tag.php on line 10
+[29-May-2014 18:53:28 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/tag.php on line 10
+[30-May-2014 06:05:48 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/404.php on line 10
+[30-May-2014 15:47:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/404.php on line 10
+[21-Jul-2015 07:30:22 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/404.php on line 10
+[26-Jul-2015 08:12:35 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyeleven/404.php on line 10

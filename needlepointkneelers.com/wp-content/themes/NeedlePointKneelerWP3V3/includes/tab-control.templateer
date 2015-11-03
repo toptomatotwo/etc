@@ -1,0 +1,77 @@
+<div id="tab-master" class="yui-navset">
+	<ul class="yui-nav">
+		<li class="selected"><a href="#tab1"><em>Theme Preview</em></a></li>
+		<li><a href="#tab2"><em>Magazine Templates</em></a></li>
+		<li><a href="#tab2"><em>Other Page Templates</em></a></li>
+		<li><a href="#tab3"><em>Everything Else</em></a></li>
+		<li><a href="#tab4"><em>Wordpress 3.0 Goodies</em></a></li>
+	</ul>	
+	<div class="yui-content">
+	<div id="tab-preview">
+		<?php include (TEMPLATEPATH."/includes/template-option-items/tab-content/00-preview.php"); ?>
+	</div>
+<div id ="tab-mag"><p>This section contains all of the different magazine style layouts that are available. There are a number of different options available for each layout. 
+		Experiment with the settings until you get just the look you want. Remember, not all theme designs lend themselves to a specific layout.</p>
+	<div id="tab-mag-sub" class="yui-navset"><!-- start inner tabs -->
+		<ul class="yui-nav">
+		
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tabs/tab2/*.php") as $filename)
+			{ include $filename; } ?>
+		</ul>            
+		<div class="yui-content">
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tab-content/tab2/*.php") as $filename)
+			{ include $filename; } ?>
+		</div>
+
+	</div><!-- end inner tabs -->
+	
+</div>
+<div id ="tab-5" ><p>This section contains information on the other page templates that are available with your theme. </p>
+	<div id="tab-templates-sub" class="yui-navset"><!-- start inner tabs -->
+
+		<ul class="yui-nav">
+		
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tabs/tab5/*.php") as $filename)
+			{ include $filename; } ?>
+		</ul>            
+		<div class="yui-content">
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tab-content/tab5/*.php") as $filename)
+			{ include $filename; } ?>
+		</div>
+
+	</div><!-- end inner tabs -->
+</div>
+<div id ="tab-misc" ><p>This section contains all of the other theme modification options that are available. </p>
+	<div id="tab-misc-sub" class="yui-navset"><!-- start inner tabs -->
+
+		<ul class="yui-nav">
+		
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tabs/tab3/*.php") as $filename)
+			{ include $filename; } ?>
+		</ul>            
+		<div class="yui-content">
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tab-content/tab3/*.php") as $filename)
+			{ include $filename; } ?>
+		</div>
+
+	</div><!-- end inner tabs -->
+</div>
+<div id ="tab4"><p>This section contains all of the different Wordpress 3.0 specific options that are available with your theme. Remember your theme has to be running on Wordpress 3.0 for these features to work.
+<font color="red">Activating any of them when you are not running WP 3.0 will cause your theme to generate errors and stop playing nice with others.</font></p>
+	<div id="tab-wp3-sub" class="yui-navset"><!-- start inner tabs -->
+		<ul class="yui-nav">
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tabs/tab4/*.php") as $filename)
+			{ include $filename; } ?>
+
+		</ul>            
+		<div class="yui-content">
+			<?php foreach (glob(TEMPLATEPATH."/includes/template-option-items/tab-content/tab4/*.php") as $filename)
+			{ include $filename; } ?>
+		</div>
+
+	</div><!-- end inner tabs -->
+	
+</div>
+
+	</div>
+</div>

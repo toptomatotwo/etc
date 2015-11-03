@@ -1,0 +1,7 @@
+[29-Dec-2013 07:08:37] PHP Fatal error:  Call to undefined function  get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/search.php on line 10
+[01-Jun-2014 04:04:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/search.php on line 10
+[01-Jun-2014 13:31:07 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/search.php on line 10
+[08-Jul-2015 16:19:47 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/404.php on line 10
+[21-Jul-2015 07:30:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/404.php on line 10
+[07-Sep-2015 15:48:01 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/404.php on line 10
+[21-Sep-2015 04:10:21 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/etc2007/public_html/mbellishment.com/wp-content/themes/twentyten/404.php on line 10

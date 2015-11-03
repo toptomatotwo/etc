@@ -1,0 +1,75 @@
+
+/***** Home page sliding boxes gallery ********************/
+.home-img {
+   background:url(../images/shade-index.jpg) no-repeat scroll center bottom ;
+   height:90px;
+}
+.homepage-gallery {
+   width: 930px;
+   text-align: center;
+   overflow: auto;
+   margin: 0 auto;
+   padding: 0;
+}
+
+.homepage-gallery .polaroid-bg {
+   background:url(../images/polaroid-frame.png) no-repeat top left;
+   width:236px;
+   height:215px;
+   display:inline;
+   float:left;
+   margin:0;
+   padding: 40px 29px 38px 43px;
+}
+
+.boxgrid {
+   background-color: #FFFFFF;
+   float:left;
+   width: 223px;
+   height: 223px;
+   text-shadow: 1px 1px 1px #FFF7E0;
+   margin:0;
+   overflow: hidden;
+   position: relative;
+}
+
+.boxgrid img {
+   top: 0;
+   left: 0;
+   border: 0;
+   margin:0;
+   position: absolute;
+}
+
+.boxgrid h4, .boxgrid h4 a:link, .boxgrid h4 a:visited, .boxgrid h4 a:hover {
+   font-size: 18px;
+   margin: 140px 10px 0 10px;
+   padding: 0;
+}
+
+.boxgrid p {
+   padding: 0 10px;
+   margin: 0;
+}
+
+.boxcaption {
+   background: #FFFFFF;
+   float: left;
+   height: 100px;
+   width: 100%;
+   opacity: .8;
+   /* For IE 8 */
+	-MS-filter: "progid:DXImageTransform.Microsoft.Agenesis_pre_get_option_site_layoutlpha(Opacity=80)";
+   position: absolute;
+}
+
+.captionfull .boxcaption {
+   top: 260;
+   left: 0;
+}
+
+.caption .boxcaption {
+   top: 220px;
+   left: 0;
+}
+

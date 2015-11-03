@@ -1,0 +1,30 @@
+.buddy-style{
+	text-align:center;
+	overflow:hidden;
+	padding:30px;
+}
+
+.buddy-style a{
+	display:block;
+	float:left;
+	margin:14px;
+}
+
+
+.buddy-style span{
+  padding-left: 4px;
+  display:block;
+}
+
+.buddy-style img{
+}
+
+#miniStockings-thumbs li img {
+width: 228px;
+height: 281px;
+}
+
+#miniStockings-thumbs li span {
+
+width: 228px;
+}

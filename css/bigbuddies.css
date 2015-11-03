@@ -1,0 +1,53 @@
+
+div.big-buddies-list-container {background-color:#000;width:710px;padding:0;margin:0;}
+ul.big-buddies-image-list {list-style-type:none;padding:0;margin:0;}
+ul.big-buddies-image-list li{float:left;}
+
+
+
+#big-buddies-list-2 li img {width:170px;}
+
+#big-buddies-list-2 li:nth-child(4n+5) {
+	clear:left;
+}
+#big-buddies-list-1 {clear:both;}
+
+#big-buddies-list-1 li.first-row img {width:170px;}
+#big-buddies-list-1 li.second-row img {width:170px;}
+#big-buddies-list-1 li.third-row img {width:170px;}
+#big-buddies-list-1 li.fourth-row:first-child {clear:left;}
+#big-buddies-list-1 li.fourth-row img {width:170px;}
+#big-buddies-list-1 li.fifth-row img {width:170px;}
+#big-buddies-list-1 li.sixth-row img {width:170px;}
+#big-buddies-list-1 li.seventh-row img, li.eighth-row img {width:170px;}
+
+#BigBuddyTable td {width:142px;overflow:hidden}
+
+div.big-buddies-list-container {
+	background-color: #fff;
+}
+ul.big-buddies-list-square {
+	list-style-type: none;
+	padding:0;
+}
+ul.big-buddies-list-square li {
+	float:left;
+	height:150px;width:150px;
+	margin:0 10px 10px 0;
+	border:2px dashed #ccc;
+	padding:1px;
+}
+
+ul.big-buddies-list-square li:hover {
+	border:2px dashed #c06;
+}
+
+ul.big-buddies-list-square li:nth-child(4n+5) {
+	clear:left;
+}
+
+
+ul.big-buddies-list-square li img{
+	height:150px;width:150px;
+padding:0;
+}

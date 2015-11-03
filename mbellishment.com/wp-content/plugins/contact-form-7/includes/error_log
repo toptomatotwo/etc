@@ -1,0 +1,9 @@
+[22-Nov-2013 06:26:19] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[28-Feb-2014 00:26:38] PHP Fatal error:  Call to undefined function  add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[02-Aug-2014 10:31:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[03-Mar-2015 23:29:23 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[03-Mar-2015 23:29:24 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[31-May-2015 10:39:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[31-May-2015 10:40:18 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[31-May-2015 10:41:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[31-May-2015 10:41:37 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3

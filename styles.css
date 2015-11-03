@@ -1,0 +1,1872 @@
+@charset "UTF-8";
+#container {
+	margin-right: auto;
+	margin-left: auto;
+	font-size:.75em;
+	width: 100%;
+	height: auto;
+}
+
+#header {
+	background: url(images/etc_banner_pink.gif) center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	height: 165px;
+	width: 970px;
+	top: 0px;
+}
+
+#content {
+	margin-right: auto;
+	margin-left: auto;
+	height: 100%;
+	width: 970px;
+	overflow: hidden;
+}
+#footer {
+	margin-right: auto;
+	margin-left: auto;
+	width: 970px;
+	height: 85px;
+	background-color: #CCC;
+	clear: both;
+	float: none;
+	overflow: hidden;
+	
+}
+
+#se {
+
+}
+.gsc-control-cse {
+	background-color:#FFC !important;
+}
+.gs-title {height:28px !important}
+
+#navbar {
+	font: small-caps normal 16px/40px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#FFC;
+	height: auto;
+	width: 240px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top:  none;
+	border-right: medium dotted #000;
+	border-bottom: none;
+	border-left: none;
+	position:static;
+	float: left;
+	overflow:visible;
+	background-color: #FFC;
+}
+
+a:link {
+	color: #C06;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a:visited {
+	color: #C06;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a:hover {
+	text-transform: none;
+	color: #C06;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight:bold;
+	font-variant: small-caps;
+	text-decoration:normal;
+}
+a:active {
+	text-transform:lowercase;
+	color: #C06;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a.breadcrumb {
+	color:#c06;
+	font-size:24px;
+	font-variant: normal;
+}
+a.breadcrumb:hover {text-decoration: underline}
+
+img {
+	text-align:left;
+	border-top: 0px none;
+	border-right: 0px none;
+	border-bottom: 0px none;
+	border-left: 0px none;
+}
+
+.wrapper { 
+	width:100%;
+	overflow:hidden;
+}
+
+.line-hor { 
+	padding-bottom:30px;
+	margin-bottom:27px;
+	background:url(images/line-dot.gif) 0 100% repeat-x;
+}
+.line-ver { 
+	background-image:url(images/line-ver.gif); 
+	background-repeat:repeat-y;
+	width:100%;
+}
+
+.retailers {
+	margin-top:-20px;
+}
+	.retailers dt {
+		padding-top:20px;
+	}
+	.retailers dd { 
+		clear:both;
+	}
+		.retailers dd span { 
+			float:left;
+			width:73px;
+		}
+		.retailers dd a {
+			color:#828282;
+		}
+
+
+/*--- slider begin-for home page ---*/
+#faded {
+	width:720px;
+	height:395px;
+	overflow:hidden;
+	margin-bottom:10px;
+	clear: none;
+	float: right;
+}
+
+ul.pagination {
+	background:url(images/pagination-bg.gif) no-repeat 0 0;
+	height:44px;
+	overflow:hidden;
+	padding:0 0 0 25px;
+}
+ul.pagination li { 
+	float:left;
+	padding:14px 8px 0 0;
+}
+ul.pagination li a {
+	float:left;
+	background:url(images/marker1.gif) no-repeat 0 0;
+	width:15px;
+	height:15px;
+	color:#505e5c;
+	text-decoration:none;
+	text-align:center;
+	font-size:0;
+	line-height:0;
+	overflow:hidden;
+}
+ul.pagination li a:hover {
+	background:url(images/marker1-act.gif) no-repeat 0 0;
+}
+ul.pagination li.current a { 
+	background:url(images/marker1-act.gif) no-repeat 0 0;
+	color:#fff;
+}
+
+#faded .rap {
+	height:477px;
+	margin-bottom:2px;
+}
+/*--- slider end ---*/
+#text {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000;
+	background-color: #FFF;
+	width: 710px;
+	position:inherit;
+	margin: 0px;
+	height: auto;
+	overflow:hidden;
+	padding: 0px 0px 0px 5px;
+	float: right;
+	font-weight: normal;
+}
+p{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #000;
+	font-weight: normal;
+}
+h1, a.h1-link {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#C06;
+	font-size:24px;
+	text-align: left;
+	}
+	
+h2, a.h2-header {
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#5b5b5b;
+	font-size:20px;
+	text-decoration:none;
+	}
+a.h2-header:hover {
+	text-decoration:underline;
+	color: #C06;
+}
+ 
+h3 {
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:16px;
+	}
+	
+	
+li{
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#C06;
+	}
+
+.col-1, .col-2, .col-3, .col-4 { 
+	float:left;
+}	
+#thumbs {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs2 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+
+#thumbs3 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear: both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+
+#thumbs4 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs5 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs6 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs7 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs8 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs9 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs10 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs11 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs12 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs13 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs14 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs15 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs16 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs17 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs18 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+#thumbs19 {
+	font: 12px Verdana, Geneva, sans-serif;
+	color: #000;
+	float: left;
+	clear:both;
+	width: 175px;
+	border-width: 0px;
+	border-style: none;
+}
+
+#loadarea {
+	float: right;
+	width: 500px;
+	position:inherit;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+
+#loadarea2 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+
+#loadarea3 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+
+#loadarea4 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea5 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea6 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea7 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea8 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea9 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea10 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea11 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}#loadarea12 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea13 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea14 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea15 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea16 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea17 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea18 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+#loadarea19 {
+	float: right;
+	width: 500px;
+	position: relative;
+	top: auto;
+	border-width: 0px;
+	border-style: none;
+}
+
+/* SUBCAT THUMBS PAGE */
+#subcategory-wrapper {
+	border:0px solid green;
+}
+
+#subcategory-thumbs {
+	list-style-type: none;
+	padding:0;
+}
+#subcategory-thumbs li{
+	border:1px dashed #828282;  /* 505e5c;#828282 */
+	float:left;
+	margin-right:20px;
+	margin-bottom:35px;
+	text-align: center;
+	padding:2px 0 5px 0;
+}
+#subcategory-thumbs li img{
+	margin-bottom:3px;
+}
+#subcategory-thumbs li a{
+	font-size:1em;
+}
+
+#subcategory-thumbs li:hover{
+	border:2px dashed #c06;
+}
+
+
+#subcategory-thumbs li:nth-child(4n){
+	margin-right:0;
+
+}
+#subcategory-thumbs li:nth-child(4n+5){
+	clear:left;
+}
+
+/* ORNAMENTS MENU THUMBS PAGE */
+
+#ornaments-thumbs-menu {
+	list-style-type: none;
+	padding:0;
+}
+#ornaments-thumbs-menu li{
+	border:1px dashed #828282;  /* 505e5c;#828282 */
+	float:left;
+	margin-right:20px;
+	margin-bottom:35px;
+	text-align: center;
+	padding:2px 0 5px 0;
+}
+#ornaments-thumbs-menu li img{
+	margin-bottom:3px;
+}
+#ornaments-thumbs-menu li a{
+	font-size:1em;
+}
+
+#ornaments-thumbs-menu li:hover{
+	border:2px dashed #c06;
+}
+
+#ornaments-thumbs-menu li:nth-child(4n){
+	margin-right:0;
+
+}
+#ornaments-thumbs-menu li:nth-child(4n+5){
+	clear:left;
+}
+
+/* PURSES SUBCAT */
+ul#purses-subcategory {
+list-style-type:none;margin:0;padding:0
+}
+
+ul#purses-subcategory li{ display:inline;margin:0;padding:0}
+
+/*NEW DESIGNS PAGE */
+.new-category-header {
+	margin-top:20px;
+	margin-bottom:0px;
+}
+
+.new-designs-list {margin-top:0;}
+
+#new-designs-wildlife ul {
+	margin-top:0;
+}
+
+#new-designs-wildlife li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-wildlife li img{
+width:225px;
+}
+
+#new-designs-wildlife li span {clear:left;}
+
+#new-designs-wildlife li:nth-child(3n+4){
+clear:left;
+}
+
+#new-designs-butterflies li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-butterflies li img{
+width:225px;
+}
+
+#new-designs-butterflies li span {clear:left;}
+
+#new-designs-butterflies li:nth-child(3n+4) {
+clear:left;
+}
+
+
+#new-designs-Vase li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-Vase li img{
+width:225px;
+}
+
+#new-designs-Vase li span {clear:left;}
+
+#new-designs-Vase li:nth-child(3n+4) {
+clear:left;
+}
+
+
+#new-designs-indian-patterns li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-indian-patterns li img{
+width:150px;
+}
+
+#new-designs-indian-patterns li span {clear:left;}
+
+
+#new-designs-indian-patterns li:nth-child(4n+5) {
+clear:left;
+}
+
+#new-designs-cummerbunds li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-cummerbunds li img{
+width:329px;
+}
+
+#new-designs-cummerbunds li span {clear:left;}
+
+
+#new-designs-cummerbunds li:nth-child(2n+3) {
+clear:left;
+}
+
+#new-designs-mittens li {
+margin-right:10px;
+margin-bottom:10px;
+}
+
+#new-designs-mittens li img{
+width:329px;
+}
+/*----- END NEW -----*/
+
+#new-designs-flowers li {
+margin-right:10px;
+margin-bottom:10px;	
+}
+
+#new-designs-flowers li img{
+width:225px;
+}
+
+#new-designs-flowers li span {clear:left;}
+
+#new-designs-flowers li:nth-child(3n+4){
+clear:left;
+}
+
+#new-designs-pillows li img{
+width:225px;
+margin-bottom:10px;
+}
+#new-designs-pillows li {
+margin-right:15px;
+margin-bottom:12px;
+}
+#new-designs-pillows li:nth-child(3n) {
+margin-right:0px;
+}
+#new-designs-pillows li:nth-child(3n+4) {
+border:0px solid green;
+clear:left;
+}
+
+#new-designs-pillows-vertical li img{
+width:164px;
+}
+#new-designs-pillows-vertical li{
+ margin-right:13px;
+}
+#new-designs-pillows-vertical li:nth-child(4n){
+ margin-right:0x;
+float:right;
+}
+
+#new-designs-adelaide li img{
+width:343px;
+}
+#new-designs-adelaide li{
+ margin-right:10px;
+}
+#new-designs-adelaide li:nth-child(2n){
+ margin-right:0x;
+float:right;
+}
+#new-designs-purse-clutch li img{
+width:200px;
+}
+
+#new-designs-signs li img{
+	width:150px;
+}
+#new-designs-signs li img{
+	width:228px;
+}
+#new-designs-signs li {
+	margin-right:10px;
+}
+#new-designs-signs li:nth-child(3n) {
+	margin-right:0;
+}
+
+#new-designs-ornaments-one li img{
+	width:171px;
+}
+#new-designs-ornaments-one li{
+	margin-right:5px;
+}
+#new-designs-ornaments-one li:nth-child(4n){
+	margin-right:0;
+}
+
+#new-designs-ornaments-two li img{
+	width:170px;
+}
+#new-designs-ornaments-two li{
+	margin-right:7px;
+	margin-bottom: 8px;
+}
+#new-designs-ornaments-two li:nth-child(4n+5){
+	clear:left;
+}
+#new-designs-ornaments-two li:nth-child(4n){
+	margin-right:0;
+}
+
+
+/* INDIV PAGES */
+
+
+ul.image-list-thumbs {
+	list-style: none;
+	padding-left:0;
+}
+ul.image-list-thumbs li{
+	float:left
+}
+
+.image-list-thumbs li span{
+display:block;
+font-size:12px;
+color:#222;
+font-weight:600;
+}
+
+#golf-club-covers-thumbs li:first-child, #golf-club-covers-thumbs li:nth-child(3n+4) {
+margin-left:8px;
+}
+#golf-club-covers-thumbs li:nth-child(3n+4) {
+clear:left;
+}
+
+#golf-club-covers-thumbs li{
+float:left;
+margin-right:8px;
+margin-bottom:5px;
+}
+
+#Julia-Bag-thumbs li{
+margin-right:7px;
+margin-bottom:15px;	
+}
+
+#Julia-Bag-thumbs li:nth-child(2n+3){
+clear:left;
+}
+
+#Night-Light-thumbs li{
+margin-right:7px;
+margin-bottom:15px;	
+}
+
+#Kids-Canvas-thumbs li{
+margin-left:14px;
+margin-right:10px;
+margin-bottom:15px;	
+}
+
+#Kids-Canvas-thumbs li:nth-child(2n+3){
+clear:left;
+}
+
+#Laura-Purse-thumbs li {
+margin-bottom:10px
+}
+#Laura-Purse-thumbs li img{
+width:350px;
+}
+
+#Laura-Purse-thumbs li:nth-child(2n){
+	margin-left:9px;
+}
+#Laura-Purse-thumbs li:nth-child(2n+3){
+	clear:left;
+}
+#Opera-Purse-thumbs li:nth-child(4n+5){
+	clear:left;
+}
+#Opera-Purse-thumbs li {
+	margin-right:20px;
+	margin-bottom:15px;
+}
+#Opera-Purse-thumbs li:nth-child(4n+4) {
+	margin-right:0px;
+}
+
+#Kate-Purse-thumbs li img {
+width:225px;
+}
+
+#Kate-Purse-thumbs li {
+margin-bottom:15px;
+margin-right:17px
+}
+
+#Kate-Purse-thumbs li:nth-child(3n) {
+
+margin-right:0px;
+border:0px solid red;
+}
+
+#Fan-Clutch-thumbs li img {
+width:349px;
+}
+
+#Fan-Clutch-thumbs li span {
+color:#000;
+}
+#Fan-Clutch-thumbs li {
+margin-bottom:15px;
+}
+
+#Fan-Clutch-thumbs li:nth-child(2n+1) {
+border:0px solid pink;
+margin-bottom:15px;
+margin-right:7px
+}
+
+#frames-thumbs li {
+	padding: 0 5px;
+}
+#frames-thumbs li img {
+	width: 345px;
+	height: 400px;
+}
+#frames-thumbs li span{
+	margin-bottom: 10px;
+}
+
+/*--------------ornaments-case-begin--------------------*/
+#ornaments-case-thumbs li img {
+width:225px;
+margin-bottom:10px;
+  height: 230px;
+}
+
+#ornaments-case-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-case-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-case-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-case-end--------------------*/
+
+.active {
+    color: black !important;
+}
+
+/*--------------ornaments-snowmen-begin--------------------*/
+#ornaments-snowmen-thumbs li img {
+width:225px;
+margin-bottom:10px;
+ 
+}
+
+#ornaments-snowmen-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-snowmen-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-snowmen-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-snowmen-end--------------------*/
+
+/*--------------ornaments-5_inch_round_ornaments-begin--------------------*/
+#ornaments-5_inch_round_ornaments-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height: 232px;
+ 
+}
+
+#ornaments-5_inch_round_ornaments-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-5_inch_round_ornaments-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-5_inch_round_ornaments-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-5_inch_round_ornaments-end--------------------*/
+
+/*--------------ornaments-baby_and_first_christmas-begin--------------------*/
+#ornaments-baby_and_first_christmas-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+
+ 
+}
+
+#ornaments-baby_and_first_christmas-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-baby_and_first_christmas-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-baby_and_first_christmas-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-baby_and_first_christmas-end--------------------*/
+
+/*--------------ornaments-boxers-begin--------------------*/
+#ornaments-boxers-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:220px
+
+ 
+}
+
+#ornaments-boxers-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-boxers-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-boxers-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-boxers-end--------------------*/
+
+/*--------------ornaments-cats_and_dogs-begin--------------------*/
+#ornaments-cats_and_dogs-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:220px
+
+ 
+}
+
+#ornaments-cats_and_dogs-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-cats_and_dogs-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-cats_and_dogs-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-cats_and_dogs-end--------------------*/
+
+/*--------------ornaments-cheering_santas-begin--------------------*/
+#ornaments-cheering_santas-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:343px
+
+ 
+}
+
+#ornaments-cheering_santas-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-cheering_santas-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-cheering_santas-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-cheering_santas-end--------------------*/
+/*--------------ornaments-equine-begin--------------------*/
+#ornaments-equine-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:228px;
+ 
+
+ 
+}
+
+#ornaments-equine-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-equine-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-equine-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-cequine-end--------------------*/
+
+/*--------------ornaments-gingerbread_men_women_children-begin--------------------*/
+#ornaments-gingerbread_men_women_children-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:267px;
+ 
+
+ 
+}
+
+#ornaments-gingerbread_men_women_children-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-gingerbread_men_women_children-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-gingerbread_men_women_children-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-gingerbread_men_women_children-end--------------------*/
+
+/*--------------ornaments-halloween-begin--------------------*/
+#ornaments-halloween-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:223px;
+  
+ 
+
+ 
+}
+
+#ornaments-halloween-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-halloween-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-halloween-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-halloween-end--------------------*/
+
+/*--------------ornaments-master-sports-begin--------------------*/
+#ornaments-master-sports-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+ 
+  
+ 
+
+ 
+}
+
+#ornaments-master-sports-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-master-sports-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-master-sports-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-master-sports-end--------------------*/
+
+/*--------------ornaments-mise-begin--------------------*/
+#ornaments-mise-thumbs li img {
+  width: 226px;
+  margin-bottom: 10px;
+  height:253px;
+  
+ 
+
+ 
+}
+
+#ornaments-mise-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-mise-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-mise-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-halloween-end--------------------*/
+
+/*--------------ornaments-mittens-begin--------------------*/
+#ornaments-mittens-thumbs li img {
+width:225px;
+margin-bottom:10px;
+height:267px;
+ 
+}
+
+#ornaments-mittens-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-mittens-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-mittens-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-mittens-end--------------------*/
+
+/*--------------ornaments-nativity-begin--------------------*/
+#ornaments-nativity-thumbs li img {
+width:225px;
+margin-bottom:10px;
+
+ 
+}
+
+#ornaments-nativity-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-nativity-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-nativity-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-nativity-end--------------------*/
+
+/*--------------ornaments-set-of-12-begin--------------------*/
+#ornaments-set-of-12-thumbs li img {
+width:226px;
+margin-bottom:10px;
+height:227px;
+
+ 
+}
+
+#ornaments-set-of-12-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-set-of-12-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-set-of-12-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-set-of-12-end--------------------*/
+
+/*--------------ornaments-spoorts-teenies-begin--------------------*/
+#ornaments-spoorts-teenies-thumbs li img {
+width:226px;
+margin-bottom:10px;
+height:226px;
+
+ 
+}
+
+#ornaments-spoorts-teenies-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-spoorts-teenies-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-spoorts-teenies-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-spoorts-teenies-end--------------------*/
+
+/*--------------ornaments-stars-begin--------------------*/
+#ornaments-stars-thumbs li img {
+width:226px;
+margin-bottom:10px;
+height:218px;
+
+ 
+}
+
+#ornaments-stars-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-stars-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-stars-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-stars-end--------------------*/
+
+/*--------------ornaments-wedding-begin--------------------*/
+#ornaments-wedding-thumbs li img {
+width:226px;
+margin-bottom:10px;
+height:254px;
+
+ 
+}
+
+#ornaments-wedding-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-wedding-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-wedding-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-wedding-end--------------------*/
+
+/*--------------ornaments-ornaments-begin--------------------*/
+#ornaments-ornaments-thumbs li img {
+width:216px;
+margin-bottom:10px;
+
+
+ 
+}
+
+#ornaments-ornaments-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#ornaments-ornaments-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#ornaments-ornaments-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------ornaments-wedding-end--------------------*/
+
+#purse-satchels li{
+margin-right:10px;
+margin-bottom: 15px;
+}
+
+#purse-satchels li:nth-child(2){
+margin-right:0px;
+}
+
+#purse-satchels li.two-across img{
+width:345px;
+}
+
+#purse-satchels li.one-across img{
+width:774px;
+
+}
+
+#luggage-strap-thumbs li {
+margin:8px;
+}
+#luggage-strap-thumbs li:nth-child(2n) {
+margin-right:0px;
+margin-left:9px;
+border:0px solid yellow;
+}
+#luggage-strap-thumbs li:nth-child(2n+3) {
+clear:left;
+}
+
+#luggage-strap-thumbs li img {
+width:340px;
+}
+#luggage-strap-thumbs li.single img{
+	width:101px;
+}
+
+/* NOT WORKING???
+#Fan-Clutch-thumbs li:nth-child(2n) {
+
+margin-right:0px;
+border:0px solid red;
+}
+*/
+
+#miniStockings-thumbs li img{
+margin-bottom:5px
+}
+#miniStockings-thumbs li{
+	margin-right:13px;
+	margin-bottom: 15px;
+	height:310px;
+}
+#miniStockings-thumbs li:nth-child(3n){
+	margin-right:0;
+}
+#miniStockings-thumbs li:nth-child(3n+4){
+	clear:left;
+}
+#miniStockings-thumbs li  span{
+font-size:11px
+}
+
+#ornaments-spoorts-teenies-thumbs li{
+margin-right:10px;
+}
+#ornaments-spoorts-teenies-thumbs li:nth-child(3n+4){
+clear:left;
+}
+
+#Petite-Clutch-thumbs li.finished img{
+width:347px;
+}
+#Petite-Clutch-thumbs li.finished:nth-child(2n+1) {
+margin-right:13px;
+}
+#Petite-Clutch-thumbs li.finished:nth-child(2n+2) {
+margin-right:0px;
+}
+
+#Petite-Clutch-thumbs li img{
+width:224px;
+}
+#Petite-Clutch-thumbs li {
+margin-right:17px;
+margin-bottom:15px;
+}
+
+#Petite-Clutch-thumbs li:nth-child(3n+7) {
+margin-right:0;
+border:0px solid yellow;
+}
+#Petite-Clutch-thumbs li:nth-child(3n+8) {
+clear:left;
+border:0px solid yellow;
+}
+
+#mini-backpack-thumbs li img{
+width:226px;
+}
+
+#mini-backpack-thumbs li {
+margin-right:15px;
+margin-bottom:15px;
+}
+#mini-backpack-thumbs li:nth-child(3n) {
+margin-right:0px;
+}
+
+#mini-backpack-thumbs li:nth-child(3n+4) {
+clear:left;
+border:0px solid yellow;
+}
+
+
+#signs-thumbs li {
+margin-bottom:20px;
+margin-right:14px;
+}
+#signs-thumbs li.end-row {
+	margin-right:0;
+}
+
+#signs-thumbs li span{
+font-size:11px;	
+	}
+	
+.z-signs {
+	margin-left: 3px;
+}
+.z-signs li {
+	margin-right: 0!important;
+	padding: 0 5px;
+}
+.z-signs li img {
+	width: 225px;
+
+}	
+	
+.three-across img{
+	width:227px
+}
+
+li.small-horiz img {
+	width:225px;
+}
+#S-191, #S-190e {
+position:relatve !important;
+margin-top:-105px;
+}
+
+#S-181 {
+	position:relative;
+	margin-left:40px;
+	top:-129px
+}
+li.move-up {
+	position:relative;
+	margin-top:-115px;
+}
+
+/*--------------scissor-case-begin--------------------*/
+#scissor-case-thumbs li img {
+width:345px;
+margin-bottom:10px;
+}
+
+#scissor-case-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#scissor-case-thumbs li  span{
+font-size:11px
+}
+
+#scissor-case-thumbs li:nth-child(2n) {
+margin-right: 0px;
+}
+/*--------------scissor-case-end--------------------*/
+
+
+/*--------------teenies-case-begin--------------------*/
+#teenies-case-thumbs li img {
+width:225px;
+margin-bottom:10px;
+}
+
+#teenies-case-thumbs li  {
+margin-right:15px;
+margin-bottom:25px;
+}
+
+#teenies-case-thumbs li  span{
+display:block;
+font-size:11px;
+width:215px;
+padding-right:10px;
+}
+
+#teenies-case-thumbs li:nth-child(3n) {
+margin-right: 0px;
+}
+
+/*--------------teenies-case-end--------------------*/
+
+/*--------------rugs-case-begin--------------------*/
+#rugs-case-thumbs li img {
+margin-bottom:10px;
+width:340px;
+}
+
+#rugs-case-thumbs li  {
+margin-right:25px;
+margin-bottom:15px;
+
+
+}
+
+#rugs-case-thumbs li:nth-child(2n)  {
+margin-right:0px;
+
+}
+
+#rugs-case-thumbs li  span{
+display:block;
+font-size:11px;
+width:330px;
+padding-right:10px;
+}
+
+/*--------------rugs-case-end--------------------*/
+
+/*======= needleptDesigns_brickCover.html =======*/
+#brickCover #text .col-1 {width:330px; margin-right:35px;}
+#brickCover #text .col-1 img {width:330px; height:290px;}
+#brickCover #text .col-2 { width:330px;}
+#brickCover #text .col-2 img {width:330px; height:290px;}
+#page2 #content .row-2 .col-1 {width:266px; margin-right:63px;}
+#page2 #content .row-2 .col-2 {width:271px; margin-right:58px;}
+#page2 #content .row-2 .col-3 {width:260px;}
+
+
+/*======= needleptDesigns_coaster.html =======*/
+#coaster #text .col-1 {width:330px; margin-right:35px;}
+#coaster #text .col-1 img {width:330px; height:290px;}
+#coaster #text .col-2 { width:330px;}
+#coaster #text .col-2 img {width:330px; height:290px;}
+#page2 #content .row-2 .col-1 {width:266px; margin-right:63px;}
+#page2 #content .row-2 .col-2 {width:271px; margin-right:58px;}
+#page2 #content .row-2 .col-3 {width:260px;}
+
+
+
+
+
+
+
+/* E M P L O Y E E   P A G E */
+#employee-wrapper{
+	border:0px solid red;
+	width:620px;
+	float:left;
+	padding-left:20px
+}
+
+.employee-entry h1{
+	font-family:'Trebuchet MS';
+	margin-bottom:3px;
+}
+.employee-entry img{
+	float:left;
+	margin-right:13px;
+}
+.employee-entry p{
+	float:left;
+	margin-top:0;
+	line-height:1.4;
+}
+#marcy-bio {
+	width:300px;
+}
+#susan-bio {
+	width:250px;
+}
+#victoria-bio, #donna-bio {
+	width:200px;
+}
+/* P A G I N A T I O N */
+.pagination-page-bot {
+	text-align:center;
+	clear:both;
+	padding-bottom:20px;
+}
+h1.float-pagination {
+	float:left;
+
+}
+.pagination-page-top {
+	float:left;
+	padding-left:20px;
+	padding-top:25px
+}
+
+.pagination {
+margin-bottom: 10px;
+}
+
+a.pagination-link {
+padding:4px;
+border:1px solid #efefef;
+margin-right:5px;
+color:#222;
+}
+a.pagination-link:hover {
+text-decoration:underline;
+color:#f00;
+}
+
+span.page-current {
+	background-color:pink;
+	padding:3px;
+	font-weight:800;
+	margin-right:5px;
+	color:#f00;
+}
+
+
+/*
+span.page-current {
+padding:4px;
+border:1px solid #efefef;
+margin-right:5px;
+}
+a.pagination-link {
+	background-color:pink;
+	padding:3px;
+	font-weight:0;
+	margin-right:5px;
+}
+*/
+
+/* BELTS NEW LAYOUT 8.19.14 */
+tr.spacer {
+	height:12px;
+}
+
+tr {
+	padding-bottom: 10px;
+}
+.belt-img {
+	height:37px;
+	width:350px;
+}
+
+td.click-here {
+	padding-left:2px;
+}
+
+td.click-here a{
+	font-size:16px;
+}
+td.click-here a:hover{
+	text-decoration:underline;
+}
+
+
+/* C L E A R   F I X */
+.group:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.margin-bot { margin-bottom:5px; }
+
+.clearleft {
+	clear:left;
+}
+
+.clearright {
+	clear:right;
+}

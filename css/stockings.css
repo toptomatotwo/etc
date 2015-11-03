@@ -1,0 +1,12 @@
+#new-designs-stocking-vertical li {
+	margin-left: 20px;
+	margin-bottom: 7px;
+}
+
+#new-designs-stocking-vertical li:nth-child(4n+5) {
+	clear:left;
+}
+
+#new-designs-stocking-vertical li img{
+	width:135px;
+}

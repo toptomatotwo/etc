@@ -1,0 +1,15 @@
+[29-Dec-2013 07:08:37] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[23-Mar-2014 02:22:13] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[26-Apr-2014 02:42:51] PHP Fatal error:  Call to undefined function  add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/legacy.php on line 356
+[27-Apr-2014 20:41:44] PHP Fatal error:  Call to undefined function  plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[13-May-2014 00:30:56 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[13-May-2014 14:12:14 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[14-May-2014 00:07:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/legacy.php on line 356
+[15-May-2014 12:33:54 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/legacy.php on line 356
+[14-Oct-2014 15:39:41 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[23-Nov-2014 12:30:42 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[24-Nov-2014 00:43:32 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[24-Nov-2014 02:00:13 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[12-Jan-2015 20:28:31 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[14-Jun-2015 19:18:51 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32
+[19-Jul-2015 17:26:41 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_url() in /home3/etc2007/public_html/mbellishment.com/wp-content/plugins/akismet/akismet.php on line 32

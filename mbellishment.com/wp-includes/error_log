@@ -1,0 +1,78 @@
+[18-Nov-2010 11:37:20] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/etc4web/public_html/wp-includes/rss.php on line 18
+[18-Nov-2010 11:37:21] PHP Fatal error:  Class 'Walker' not found in /home/etc4web/public_html/wp-includes/nav-menu-template.php on line 17
+[18-Nov-2010 11:37:23] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/general-template.php on line 1273
+[18-Nov-2010 11:37:31] PHP Fatal error:  Call to undefined function  is_multisite() in /home/etc4web/public_html/wp-includes/wp-db.php on line 505
+[18-Nov-2010 11:37:39] PHP Fatal error:  Call to undefined function  wp_embed_register_handler() in /home/etc4web/public_html/wp-includes/default-embeds.php on line 33
+[18-Nov-2010 11:37:54] PHP Fatal error:  Call to undefined function  is_robots() in /home/etc4web/public_html/wp-includes/template-loader.php on line 10
+[18-Nov-2010 11:38:02] PHP Fatal error:  Class 'WP_Widget' not found in /home/etc4web/public_html/wp-includes/default-widgets.php on line 15
+[18-Nov-2010 11:38:03] PHP Fatal error:  Call to undefined function  add_filter() in /home/etc4web/public_html/wp-includes/default-filters.php on line 17
+[18-Nov-2010 11:38:05] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/etc4web/public_html/wp-includes/feed-rss.php on line 8
+[18-Nov-2010 11:38:24] PHP Fatal error:  Call to undefined function  add_filter() in /home/etc4web/public_html/wp-includes/user.php on line 70
+[18-Nov-2010 11:38:32] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/etc4web/public_html/wp-includes/rss-functions.php on line 8
+[18-Nov-2010 11:38:44] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/canonical.php on line 411
+[18-Nov-2010 11:39:08] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/taxonomy.php on line 65
+[18-Nov-2010 11:39:10] PHP Fatal error:  Call to undefined function  is_admin() in /home/etc4web/public_html/wp-includes/vars.php on line 16
+[18-Nov-2010 11:39:13] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/kses.php on line 1361
+[18-Nov-2010 11:39:19] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/theme.php on line 1137
+[18-Nov-2010 11:39:22] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/post.php on line 139
+[18-Nov-2010 11:39:32] PHP Fatal error:  Call to undefined function  add_filter() in /home/etc4web/public_html/wp-includes/shortcodes.php on line 296
+[18-Nov-2010 11:39:39] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/etc4web/public_html/wp-includes/script-loader.php on line 25
+[18-Nov-2010 11:39:39] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/etc4web/public_html/wp-includes/script-loader.php on line 25
+[18-Nov-2010 11:39:39] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/etc4web/public_html/wp-includes/script-loader.php on line 25
+[18-Nov-2010 11:40:17] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/etc4web/public_html/wp-includes/feed-rss2.php on line 8
+[18-Nov-2010 11:40:21] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/etc4web/public_html/wp-includes/feed-atom.php on line 8
+[18-Nov-2010 11:40:21] PHP Fatal error:  Call to undefined function  feed_content_type() in /home/etc4web/public_html/wp-includes/feed-rdf.php on line 8
+[18-Nov-2010 11:40:28] PHP Fatal error:  Call to undefined function  add_action() in /home/etc4web/public_html/wp-includes/ms-default-constants.php on line 138
+[18-Nov-2010 11:40:29] PHP Fatal error:  Call to undefined function  add_filter() in /home/etc4web/public_html/wp-includes/ms-default-filters.php on line 17
+[18-Nov-2010 11:40:42] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/etc4web/public_html/wp-includes/class-snoopy.php on line 6
+[18-Nov-2010 11:40:44] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/etc4web/public_html/wp-includes/class.wp-styles.php on line 19
+[16-Jul-2013 12:19:25] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/etc4web/public_html/wp-includes/registration-functions.php on line 7
+[08-Sep-2015 04:00:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/taxonomy.php on line 113
+[08-Sep-2015 04:00:21 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-includes/default-filters.php on line 17
+[08-Sep-2015 04:00:21 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-default-filters.php on line 17
+[08-Sep-2015 04:00:21 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-atom-comments.php on line 8
+[08-Sep-2015 04:00:21 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/canonical.php on line 504
+[08-Sep-2015 04:00:22 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/kses.php on line 1430
+[08-Sep-2015 04:00:25 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/etc2007/public_html/mbellishment.com/wp-includes/rss-functions.php on line 8
+[08-Sep-2015 04:00:26 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/etc2007/public_html/mbellishment.com/wp-includes/registration.php on line 7
+[08-Sep-2015 04:00:27 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-default-constants.php on line 138
+[08-Sep-2015 04:00:27 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home3/etc2007/public_html/mbellishment.com/wp-includes/vars.php on line 20
+[08-Sep-2015 04:00:27 America/Chicago] PHP Fatal error:  Class 'IXR_Client' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/class-wp-http-ixr-client.php on line 9
+[08-Sep-2015 04:00:30 America/Chicago] PHP Fatal error:  Call to undefined function is_main_site() in /home3/etc2007/public_html/mbellishment.com/wp-includes/update.php on line 433
+[08-Sep-2015 04:00:30 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/post-template.php on line 975
+[08-Sep-2015 04:00:30 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/comment-template.php on line 1220
+[08-Sep-2015 04:00:30 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home3/etc2007/public_html/mbellishment.com/wp-includes/template-loader.php on line 10
+[08-Sep-2015 04:00:31 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-atom.php on line 8
+[08-Sep-2015 04:00:31 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/category-template.php on line 766
+[08-Sep-2015 04:00:31 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/etc2007/public_html/mbellishment.com/wp-includes/registration-functions.php on line 7
+[08-Sep-2015 04:00:31 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-rdf.php on line 8
+[08-Sep-2015 04:00:31 America/Chicago] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/class-feed.php on line 4
+[08-Sep-2015 04:00:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/opt/php54/lib/php') in /home3/etc2007/public_html/mbellishment.com/wp-includes/class-feed.php on line 4
+[08-Sep-2015 04:00:32 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/general-template.php on line 1283
+[08-Sep-2015 04:00:32 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-rss.php on line 8
+[08-Sep-2015 04:00:33 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-includes/user.php on line 71
+[08-Sep-2015 04:00:33 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/etc2007/public_html/mbellishment.com/wp-includes/class-snoopy.php on line 6
+[08-Sep-2015 04:00:34 America/Chicago] PHP Fatal error:  Class 'IXR_Server' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/class-wp-xmlrpc-server.php on line 22
+[08-Sep-2015 04:00:34 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-functions.php on line 1826
+[08-Sep-2015 04:00:34 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/functions.php on line 8
+[08-Sep-2015 04:00:34 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/functions.php on line 8
+[08-Sep-2015 04:00:34 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home3/etc2007/public_html/mbellishment.com/wp-includes/functions.php on line 8
+[08-Sep-2015 04:00:35 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-rss2.php on line 8
+[08-Sep-2015 04:00:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/theme.php on line 570
+[08-Sep-2015 04:00:36 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/nav-menu-template.php on line 17
+[08-Sep-2015 04:00:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/post.php on line 159
+[08-Sep-2015 04:00:36 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/admin-bar.php on line 39
+[08-Sep-2015 04:00:36 America/Chicago] PHP Fatal error:  Class 'WP_Widget' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/default-widgets.php on line 14
+[08-Sep-2015 04:00:36 America/Chicago] PHP Warning:  require(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-settings.php on line 14
+[08-Sep-2015 04:00:36 America/Chicago] PHP Warning:  require(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-settings.php on line 14
+[08-Sep-2015 04:00:36 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/opt/php54/lib/php') in /home3/etc2007/public_html/mbellishment.com/wp-includes/ms-settings.php on line 14
+[08-Sep-2015 04:00:37 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/class.wp-scripts.php on line 19
+[08-Sep-2015 04:00:38 America/Chicago] PHP Fatal error:  Class 'WP_Dependencies' not found in /home3/etc2007/public_html/mbellishment.com/wp-includes/class.wp-styles.php on line 19
+[08-Sep-2015 04:00:38 America/Chicago] PHP Fatal error:  Call to undefined function feed_content_type() in /home3/etc2007/public_html/mbellishment.com/wp-includes/feed-rss2-comments.php on line 8
+[08-Sep-2015 04:00:39 America/Chicago] PHP Fatal error:  Call to undefined function add_shortcode() in /home3/etc2007/public_html/mbellishment.com/wp-includes/media.php on line 715
+[08-Sep-2015 04:00:39 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home3/etc2007/public_html/mbellishment.com/wp-includes/shortcodes.php on line 334
+[08-Sep-2015 04:00:39 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/script-loader.php on line 25
+[08-Sep-2015 04:00:39 America/Chicago] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home3/etc2007/public_html/mbellishment.com/wp-includes/script-loader.php on line 25
+[08-Sep-2015 04:00:39 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/opt/php54/lib/php') in /home3/etc2007/public_html/mbellishment.com/wp-includes/script-loader.php on line 25
+[08-Sep-2015 04:08:03 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home3/etc2007/public_html/mbellishment.com/wp-includes/rss.php on line 18
+[08-Sep-2015 04:22:48 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/etc2007/public_html/mbellishment.com/wp-includes/author-template.php on line 394

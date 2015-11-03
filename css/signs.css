@@ -1,0 +1,40 @@
+
+ul#sept282015 {
+	padding:0;
+	list-style-type: none;
+}
+
+ul#sept282015 li {
+	min-height: 270px;
+	margin-bottom: 5px;
+}
+
+ul#sept282015 li:nth-child(2n+1){
+	float:left;
+
+}
+
+ul#sept282015 li:nth-child(2n+2){
+	float:right;
+	margin:0;
+}
+
+ul#sept282015 li:nth-child(2n+3){
+	clear:left;
+}
+
+ul#sept282015 li img{
+	width:343px;
+	margin-bottom: 5px
+}
+
+ul#sept282015 li:last-child {
+	float:left;
+	margin-left: 20px;
+	
+}
+
+ul#sept282015 li:last-child img{
+	width:225px;
+
+}

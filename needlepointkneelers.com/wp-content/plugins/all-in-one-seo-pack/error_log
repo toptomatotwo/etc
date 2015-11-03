@@ -1,0 +1,2 @@
+[25-Dec-2014 04:44:39 America/Chicago] PHP Fatal error:  Call to undefined function register_activation_hook() in /home3/etc2007/public_html/needlepointkneelers.com/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 32
+[02-Mar-2015 06:05:01 America/Chicago] PHP Fatal error:  Call to undefined function register_activation_hook() in /home3/etc2007/public_html/needlepointkneelers.com/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 32

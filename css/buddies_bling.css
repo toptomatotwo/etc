@@ -1,0 +1,62 @@
+/* NEEDLES & BLING SUBCAT PAGE ................*/
+
+ul#buddies-bling-subcat {
+	list-style-type: none;
+	padding:0;
+}
+
+ul#buddies-bling-subcat li {
+	float:left;
+}
+
+ul#buddies-bling-subcat li:nth-child(4){
+	clear:left;
+	}
+
+ul#buddies-bling-subcat li span{
+	font-size: 16px;
+	}
+
+ul#buddies-bling-subcat li span:hover{
+	color:red;
+}
+
+ul#buddies-bling-subcat li img{
+	 border:3px dashed #ccc;
+	 width:150px;
+	 padding: 3px;
+	 margin-bottom: 5px;
+} 
+
+ul#buddies-bling-subcat li img:hover{
+	border:3px dashed #c06;
+}
+
+/* BUDDIE TREES PAGE ................*/
+.buddie-trees-wrapper {
+	padding-bottom: 80px;
+}
+
+ul#buddie-trees {
+	list-style-type:none;
+	padding:0;
+
+}
+
+ul#buddie-trees li{
+	float: left;
+}
+
+ul#buddie-trees li:nth-child(2n+1){
+	margin-right: 20px;
+}
+ul#buddie-trees li img{
+	width:340px;
+	margin-bottom: 10px;
+}
+ul#buddie-trees li span{
+	display:block;
+	clear:left;
+	font-size: 16px;
+	text-align: center;
+}

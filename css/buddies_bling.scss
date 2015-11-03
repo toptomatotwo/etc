@@ -1,0 +1,20 @@
+.buddie-trees-wrapper {
+	padding-bottom: 40px;
+}
+
+ul#buddie-trees {
+	list-style-type:none;
+	padding:0;
+
+}
+
+ul#buddie-trees li{
+	float: left;
+}
+
+ul#buddie-trees li:nth-child(2n+1){
+	margin-right: 20px;
+}
+ul#buddie-trees li img{
+	width:340px;
+}
